@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "com.sts15.attributesfix.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "RangedAttributeMixin"
+  ],
+  "minVersion": "0.8",
+  "refmap": "mixins.attributesfix.refmap.json"
+}
